@@ -1,4 +1,4 @@
-<h1 align='center'>GangDream</h1>
+<h1 align='center'>Library</h1>
 
 <p align='center'>
 <img width=90 src='src/asset/book-.png'>
@@ -37,6 +37,6 @@ Simple Library App, you can borrow see detail etc.
 
 ## Screenshots
 <div align="center">
-    <img width="250" src="src/asset/sc1.png">    
+    <img width="250" src="src/asset/Sc1.png">    
     <img width="250" src="src/asset/profile.png">    
 </div>
