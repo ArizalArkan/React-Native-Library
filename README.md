@@ -40,3 +40,6 @@ Simple Library App, you can borrow see detail etc.
     <img width="250" src="src/asset/Sc1.png">    
     <img width="250" src="src/asset/profile.png">    
 </div>
+
+## License
+Arizal Arkan
